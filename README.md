@@ -19,7 +19,7 @@ npm run dev / yarn dev
 
 ### Author
 
-Brad Traversy
+Frank Ezeh
 *  [Frank Ezeh](https://www.linkedin.com/in/frank-ezeh-7a79a0182)
 
 ### Version

@@ -40,7 +40,7 @@ export default function Home() {
           </IconButton>
           <h1 className="display-4">Newsletter Signup</h1>
           <p className="lead">
-            Enter your info to get our awesome monthly newsletter
+            Enter your info to get our awesome daily newsletter
           </p>
           <form onSubmit={subscribe}>
             <div className="form-group">
@@ -82,7 +82,7 @@ export default function Home() {
             </IconButton>
             <h1 className="display-4">Success!</h1>
             <p className="lead">
-              You are now signed up for our awesome montly newsletter!
+              You are now signed up for our awesome daily newsletter!
             </p>
             <button className="btn btn-secondary" onClick={() => window.location.reload(false)}>Back</button>
           </div>
