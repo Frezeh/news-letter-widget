@@ -1,6 +1,4 @@
-export const config = { amp: true }
-
-import '../styles/globals.css'
+import '../styles/Home.module.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function MyApp({ Component, pageProps }) {

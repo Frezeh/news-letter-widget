@@ -1,3 +1,5 @@
+export const config = { amp: true }
+
 import { useState } from "react";
 import { ThumbUp, ErrorIcon, EmailOutlined } from '@material-ui/icons';
 import { IconButton } from "@material-ui/core";
